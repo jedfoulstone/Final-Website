@@ -3,18 +3,13 @@ body {
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    height: 90vh;
+    height: 50vh;
 
 }
 
-.body2 {
-    background-color: #090C10;
-    color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
-    height: 220vh;
 
-}
+
+
 
 
 .nav-bar {
@@ -89,12 +84,19 @@ footer {
 
 }
 
-.homeimg {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 200px;
-    width: 70%;
+
+
+h1 {
+    font-size: 200px;
+    color: #4f80ff;
+    text-align: center;
 }
 
+h2 {
+    font-size: 50px;
+    text-align: center;
+}
 
+p {
+    font-size: larger;
+}
