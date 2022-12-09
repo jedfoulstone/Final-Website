@@ -7,6 +7,15 @@ body {
 
 }
 
+.body2 {
+    background-color: #090C10;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    height: 220vh;
+
+}
+
 
 .nav-bar {
     background-color: #4f80ff;
@@ -74,11 +83,18 @@ footer {
     padding-top: 40px;
     display: flex;
     flex-wrap: wrap;
-    margin-left: 90px;
+    padding-left: 90px;
     grid-row: 4;
     float: left;
 
 }
 
+.homeimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    width: 70%;
+}
 
 
