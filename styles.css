@@ -3,19 +3,16 @@ body {
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    height: 200vh;
-    
+    height: 90vh;
+
 }
 
 
-
-.nav-bar{
+.nav-bar {
     background-color: #4f80ff;
     vertical-align: middle;
     flex-wrap: wrap;
     padding: 10px;
-    
-    
 
 }
 
@@ -55,9 +52,9 @@ footer {
     flex-wrap: wrap;
     padding: 10px;
     text-align: center;
-    
-    
-    
+
+
+
 }
 
 .foot {
@@ -65,3 +62,23 @@ footer {
     text-align: center;
 
 }
+
+.typog {
+    position: relative;
+    list-style-type: none;
+    padding-right: 20px;
+
+}
+
+.typo1 {
+    padding-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 90px;
+    grid-row: 4;
+    float: left;
+
+}
+
+
+
