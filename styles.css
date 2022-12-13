@@ -3,7 +3,10 @@ body {
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    height: 100vh;
+    height: 100%;
+    margin-bottom: 100px;
+    
+
 
 }
 
@@ -39,34 +42,35 @@ button:active {
     transform: translateY(3px);
 }
 
+
+
 footer {
-    height: 25px;
-    width: 100%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: larger;
-    font-weight: bold;
-    position: fixed;
-    bottom: 0;
     background-color: #4f80ff;
     vertical-align: middle;
     flex-wrap: wrap;
+    height: 30px;
     padding: 10px;
-    text-align: center;
-
-
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    font-weight: bolder;
+    position: fixed;
+    bottom: 0;
+    
 
 }
 
 .foot {
-    margin-top: 3px;
+    margin-top: 5px;
     text-align: center;
-
+    
 }
 
 .typog {
     position: relative;
     list-style-type: none;
     padding-right: 20px;
+
 
 }
 
@@ -83,9 +87,10 @@ footer {
 
 
 h1 {
-    font-size: 200px;
+    font-size: 150px;
     color: #4f80ff;
     text-align: center;
+    
 }
 
 h2 {
@@ -95,4 +100,5 @@ h2 {
 
 p {
     font-size: larger;
+
 }
