@@ -102,18 +102,16 @@ h2 {
 
 p {
     font-size: larger;
-
 }
 
 .carptaskimg {
-    padding-top: 85px;
     display: flex;
-    max-width: 1550px;
-    flex-wrap: wrap;
     justify-content: space-evenly;
+    max-width: 1550px;
     margin: auto;
+    flex-wrap: wrap;
     margin-bottom: 20px;
-
+    padding-top: 85px;
 }
 
 
