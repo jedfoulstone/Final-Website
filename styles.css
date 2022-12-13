@@ -100,3 +100,13 @@ p {
     font-size: larger;
 
 }
+
+.carptaskimg {
+    padding-top: 85px;
+    display: flex;
+    max-width: 1550px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: auto;
+    
+}
